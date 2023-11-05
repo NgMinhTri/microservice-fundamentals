@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "T/mFKQs3Qbk9InVpIbj07+zvkr0IY9W0rm25UVHeRLE43tVaICBsgQNwuGvMBGHROaKf37wIfSarug/dFfvQTg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\tringuyenm4\\Desktop\\microservice-fundamentals\\microservice-fundamentals\\MSA.Common.Contracts\\MSA.Common.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tringuyenm4\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\tringuyenm4\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\tringuyenm4\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.4\\microsoft.extensions.configuration.binder.7.0.4.nupkg.sha512",
+    "C:\\Users\\tringuyenm4\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\tringuyenm4\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\tringuyenm4\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
